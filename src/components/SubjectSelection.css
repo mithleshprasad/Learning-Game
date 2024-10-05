@@ -1,0 +1,11 @@
+.subject-selection {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .buttons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  

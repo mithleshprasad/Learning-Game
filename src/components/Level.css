@@ -1,0 +1,31 @@
+/* src/components/Level.css */
+.level {
+    text-align: center;
+    margin-top: 30px;
+  }
+  
+  .challenge {
+    margin: 20px auto;
+  }
+  
+  .challenge p {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .answer-input {
+    padding: 10px;
+    font-size: 1rem;
+    margin-bottom: 20px;
+    width: 50%;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  .challenge button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+  }
+  
